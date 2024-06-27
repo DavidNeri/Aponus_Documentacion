@@ -1,0 +1,11 @@
+Ver:
+Arrow Functions
+Metodos de Array
+   Metodo Map
+   Metodo for each
+   metodo "Som"? 
+   Metodo Filter
+   Metodo Find
+   Metodo Reducce (Dejar a un costado) - Buscar en youtube una charla de desarrolladores de google que hablan sobre REDUCE - Dicen 	que "lo idea es evitarlo porque es complicado de leer" pero se puede usar
+
+Leer documentacion oficial de React
